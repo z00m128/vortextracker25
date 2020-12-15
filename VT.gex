@@ -1,0 +1,21 @@
+[General]
+Name=VT
+Project=1
+[Classes]
+Count=16
+Class0="ERegistryError","Exception","main","43","C:\Users\oisee\chipmusicsoft\@chipmusicsoft archieved\VT1.0beta19.src\main.pas"
+Class1="TMainForm","TForm","main","44","C:\Users\oisee\chipmusicsoft\@chipmusicsoft archieved\VT1.0beta19.src\main.pas"
+Class2="TTracks","TWinControl","CHILDWIN","0","C:\Users\oisee\chipmusicsoft\@chipmusicsoft archieved\VT1.0beta19.src\CHILDWIN.PAS"
+Class3="TTestLine","TWinControl","CHILDWIN","0","C:\Users\oisee\chipmusicsoft\@chipmusicsoft archieved\VT1.0beta19.src\CHILDWIN.PAS"
+Class4="TSamples","TWinControl","CHILDWIN","0","C:\Users\oisee\chipmusicsoft\@chipmusicsoft archieved\VT1.0beta19.src\CHILDWIN.PAS"
+Class5="TOrnaments","TWinControl","CHILDWIN","0","C:\Users\oisee\chipmusicsoft\@chipmusicsoft archieved\VT1.0beta19.src\CHILDWIN.PAS"
+Class6="TMDIChild","TForm","CHILDWIN","151","C:\Users\oisee\chipmusicsoft\@chipmusicsoft archieved\VT1.0beta19.src\CHILDWIN.PAS"
+Class7="TAboutBox","TForm","about","16","C:\Users\oisee\chipmusicsoft\@chipmusicsoft archieved\VT1.0beta19.src\about.pas"
+Class8="EMultiMediaError","Exception","WaveOutAPI","66","C:\Users\oisee\chipmusicsoft\@chipmusicsoft archieved\VT1.0beta19.src\WaveOutAPI.pas"
+Class9="TForm1","TForm","options","0","C:\Users\oisee\chipmusicsoft\@chipmusicsoft archieved\VT1.0beta19.src\options.pas"
+Class10="TTrMng","TForm","TrkMng","0","C:\Users\oisee\chipmusicsoft\@chipmusicsoft archieved\VT1.0beta19.src\TrkMng.pas"
+Class11="TGlbTrans","TForm","GlbTrn","0","C:\Users\oisee\chipmusicsoft\@chipmusicsoft archieved\VT1.0beta19.src\GlbTrn.pas"
+Class12="TExpDlg","TForm","ExportZX","17","C:\Users\oisee\chipmusicsoft\@chipmusicsoft archieved\VT1.0beta19.src\ExportZX.pas"
+Class13="TFXMParams","TForm","FXMImport","0","C:\Users\oisee\chipmusicsoft\@chipmusicsoft archieved\VT1.0beta19.src\FXMImport.pas"
+Class14="TTSSel","TForm","selectts","0","C:\Users\oisee\chipmusicsoft\@chipmusicsoft archieved\VT1.0beta19.src\selectts.pas"
+Class15="TToglSams","TForm","TglSams","0","C:\Users\oisee\chipmusicsoft\@chipmusicsoft archieved\VT1.0beta19.src\TglSams.pas"
